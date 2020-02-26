@@ -1,0 +1,17 @@
+.wrapper {
+  float: left;
+  width: 100%;
+  overflow: hidden;
+}
+
+.top-strip {
+  float: left;
+  width: 100%;
+  padding: 10px 0px;
+}
+
+.logo-container {
+  float: left;
+  width: 100%;
+  position: relative;
+}
